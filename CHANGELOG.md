@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.1.30](https://github.com/shanduur/pyoci/compare/v0.1.29...v0.1.30) (2025-09-17)
+
+
+### Dependency Updates
+
+* bump anyhow from 1.0.98 to 1.0.99 ([#252](https://github.com/shanduur/pyoci/issues/252)) ([bfd95a0](https://github.com/shanduur/pyoci/commit/bfd95a0776beb50be261030379d11c7b2656bc1f))
+* bump async-trait from 0.1.88 to 0.1.89 ([#254](https://github.com/shanduur/pyoci/issues/254)) ([a5e5564](https://github.com/shanduur/pyoci/commit/a5e5564c8d8479314b316ca0c5d8ff1f8242f671))
+* bump oci-spec from 0.8.1 to 0.8.2 ([#253](https://github.com/shanduur/pyoci/issues/253)) ([86ad1d1](https://github.com/shanduur/pyoci/commit/86ad1d1df9d9e8741e2293f7ba03f5c4cb0603bb))
+* bump serde from 1.0.219 to 1.0.223 ([#255](https://github.com/shanduur/pyoci/issues/255)) ([4f2da87](https://github.com/shanduur/pyoci/commit/4f2da874f5cb6f27dde52bcd75289f3054817f88))
+
 ## [0.1.29](https://github.com/AllexVeldman/pyoci/compare/v0.1.28...v0.1.29) (2025-09-15)
 
 
